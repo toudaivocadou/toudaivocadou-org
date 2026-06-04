@@ -1,12 +1,15 @@
-name = "l1npengtul"
-ascii_name = "l1npengtul"
+---
+name: l1npengtul
+ascii_name: l1npengtul
 
-entry_year = 2024
-short = "魚。"
+entry_year: 2024
+short: 魚。
 
-links = [ "https://www.youtube.com/@l1npengtul", "https://bsky.app/profile/l1npengtul.lol", "https://twitter.com/l1npengtul" ]
-
-===
+links:
+- https://www.youtube.com/@l1npengtul
+- https://bsky.app/profile/l1npengtul.lol
+- https://twitter.com/l1npengtul
+---
 
 虫に脳が真実に孕んで地球に大穴を掘っている。
 
