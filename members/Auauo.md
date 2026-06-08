@@ -2,7 +2,8 @@
 name: Auauo
 ascii_name: Auauo
 short: ありがとう大好き、Auauoです。はやくみんな大丈夫安心にっこり笑顔嬉しすぎになってほしい。あと、助けてください。
-links: https://linktr.ee/auauoda
+links:
+- https://linktr.ee/auauoda
 ---
 僕がボカロ曲をちゃんと聴くようになったのは大学に入ってからですし、作り始めたのも大学に入ってからなので、普通に初心者の人にも入ってほしいですね〜僕の初投稿曲でも聴いて元気出してください！
 
