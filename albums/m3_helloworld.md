@@ -1,5 +1,6 @@
 ---
 title: Hello, World!
+
 authors:
 - Mitsumori
 - kaliman
@@ -8,21 +9,27 @@ authors:
 - knoeze
 - Auauo
 - l1npengtul
+
 additional_authors:
 - しののメ
 - そふくれーみん
 - 蘭陵P
 - a月
+
 date: 2025-10-28
+
 link: https://toudaivocadou.bandcamp.com/album/hello-world
-#demonstration
+
 sns_links:
 - https://twitter.com/toudaivocadou/status/1979834978788917691
-short: "東大ボカロP同好会M3秋コンピー"
+
+short: 東大ボカロP同好会M3秋コンピー
+
 thumbnail:
   image: m3-2025/front.png
   additional_illustrators: 
     - a月
+  
 illustrations:
 - Inside:
   image: m3-2025/inside.png
