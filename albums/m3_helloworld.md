@@ -45,8 +45,6 @@ illustrations:
       - a月
 
 tracks:
-
-tracks:
   ハローワールド:
     duration: 4m 5s
     authors: 
