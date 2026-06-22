@@ -84,6 +84,10 @@ nav ul li {
     margin-left: 20px;
 }
 
+nav ul pagefind-modal-trigger {
+    margin-left: 20px;
+}
+
 nav ul li a {
     padding: 10px 5px;
     color: #333;
